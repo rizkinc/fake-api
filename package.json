@@ -1,0 +1,13 @@
+{
+  "name": "fake-mobile-api",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "mock": "node nodemon.js"
+  },
+  "dependencies": {
+    "glob": "^7.1.7",
+    "json-server": "^0.16.2",
+    "nodemon": "^2.0.4"
+  }
+}
